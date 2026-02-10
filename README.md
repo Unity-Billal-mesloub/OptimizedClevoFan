@@ -24,5 +24,5 @@ Some of them can be set in the GUI.
 - Minimum fan RPM % will be 80% of the fan which is running at max RPMs. For example: If your CPU is at 80ºC and 100% RPM, your GPU fan will run at 80% no matter what temperature is it.
 
 # Credits:
-Thanks to @djsubtronic (https://github.com/djsubtronic/ClevoFanControl) because I based in his ClevoFanControl 0.3 to do the communication with the computer fans.
+Thanks to @djsubtronic ([https://github.com/djsubtronic/ClevoFanControl](https://github.com/Unity-Billal-mesloub/ClevoFanControl)) because I based in his ClevoFanControl 0.3 to do the communication with the computer fans.
 
